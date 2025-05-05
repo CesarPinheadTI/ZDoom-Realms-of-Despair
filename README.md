@@ -7,10 +7,15 @@ O mapa é grande, bacana, mas o que tem de novo? O que tem no seu mod que não t
 Lá vai:
 
 -> 10 armas no total: (3 varinhas, 2 cajados, 4 magias ofensivas e 1 magia de regeneração). 1 arma custa ponto de vida enquanto a outra gera;
+
 -> Sistema de regeneração de ponto de vida e ponto de mana e que pode alterar de acordo com o nível da habilidade;
+
 -> As armas tem ataques diferentes de acordo com o "upgrade";
+
 -> Troca de nome e música para cada cenário;
+
 -> 16 músicas e 2 efeitos sonoros;
+
 -> alguns livros interativos, com imagens criadas no photoshop. Bestiario, grimório e outras informações sobre a mod;
 
 === ULTIMAS ALTERAÇÕES ===
@@ -20,8 +25,11 @@ Sistema de alquimia (o que inclui 5 igredientes, spots para coleta de 4 desses i
 === ÁREA DE DESENVOLVIMENTO ===
 
 -> Level design, utilizando o Doom Builder 2;
+
 -> Criação e manipulação de objetos (itens, skills, monstros...) via decorate, utilizando o Slade 3;
+
 -> Criação e manipulação de scripts (funcionalidades do jogo) via ACS, utilizando o Slade 3;
+
 -> Criação e manipulação de imagens utilizando Photoshop
 
 Para ver o código, é necessário o Slade instalado. Ao abrir meu mod, busque o arquivo DECORATE para ver os actors (objetos) ou SCRIPTS para ver os scripts. Para ver o modelo do mapa, é preciso o Doom Builder instalado.
@@ -29,7 +37,9 @@ Para ver o código, é necessário o Slade instalado. Ao abrir meu mod, busque o
 === APPS NECESSÁRIOS ===
 
 -> SLADE (para edição): http://slade.mancubus.net/
+
 -> DoomBuilder 2 (para level design): http://doombuilder.com/
+
 -> ZDoom (para rodar o jogo): https://zdoom.org/index
 
 inclusive no site do Zdoom, na sessão de DOWNLOADS é possível ver que ali tem uma lista de outros apps uteis para edição de mods doom.
