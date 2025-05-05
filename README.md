@@ -1,10 +1,8 @@
-# ZDoom-Realms-of-Despair
 Projeto de desenvolvimento de um wad (map customizado) no universo ZDoom.
 
 Realms of Despair conta com 1 mapa central, 4 mapas dungeons com uma arena cada, 3 arenas não-canonicas, 2 mapas finais e uma arena final.
 
-O mapa é grande, bacana, mas o que tem de novo? O que tem no seu mod que não tem nos originais?
-Lá vai:
+# O mapa é grande, bacana, mas o que tem de novo? O que tem no seu mod que não tem nos originais? Lá vai:
 
 -> 10 armas no total: (3 varinhas, 2 cajados, 4 magias ofensivas e 1 magia de regeneração). 1 arma custa ponto de vida enquanto a outra gera;
 
@@ -18,11 +16,11 @@ Lá vai:
 
 -> alguns livros interativos, com imagens criadas no photoshop. Bestiario, grimório e outras informações sobre a mod;
 
-=== ULTIMAS ALTERAÇÕES ===
+# === ULTIMAS ALTERAÇÕES ===
 
 Sistema de alquimia (o que inclui 5 igredientes, spots para coleta de 4 desses igredientes, mesa para transmutação de poções). Agora todas as poções geram um frasco vazio ao ser consumida. Alem disso, será adicionado os locais para a mesa e todas as poções serão substituidas pelos spots de igredientes
 
-=== ÁREA DE DESENVOLVIMENTO ===
+# === ÁREA DE DESENVOLVIMENTO ===
 
 -> Level design, utilizando o Doom Builder 2;
 
@@ -34,7 +32,7 @@ Sistema de alquimia (o que inclui 5 igredientes, spots para coleta de 4 desses i
 
 Para ver o código, é necessário o Slade instalado. Ao abrir meu mod, busque o arquivo DECORATE para ver os actors (objetos) ou SCRIPTS para ver os scripts. Para ver o modelo do mapa, é preciso o Doom Builder instalado.
 
-=== APPS NECESSÁRIOS ===
+# === APPS NECESSÁRIOS ===
 
 -> SLADE (para edição): http://slade.mancubus.net/
 
